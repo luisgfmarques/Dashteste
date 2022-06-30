@@ -1,0 +1,23 @@
+{
+  "name": "dashcommerce",
+  "version": "1.0.0",
+  "description": "Software for ability test",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgfmarques/DashCommerce.git"
+  },
+  "author": "Luis Marques",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luisgfmarques/DashCommerce/issues"
+  },
+  "homepage": "https://github.com/luisgfmarques/DashCommerce#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
